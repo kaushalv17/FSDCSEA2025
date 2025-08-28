@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  
+  padding: 10px;
+  gap: 10px; /* space between items */
+}
+
+.child1 {
+  border: 1px dotted green;
+  background-color: yellow;
+  padding: 10px;
+}
+
+.child2 {
+  border: 1px dotted green;
+  color: rgb(0, 255, 8);
+  padding: 10px;
+}
+
+.child3 {
+  border: 1px dotted green;
+  color: rgb(255, 0, 0);
+  padding: 10px;
+}
+
+.child4 {
+  border: 1px dotted green;
+  color: rgb(179, 255, 0);
+  padding: 10px;
+}
+
+.child5 {
+  border: 1px dotted green;
+  color: rgb(255, 0, 0);
+  padding: 10px;
+}
